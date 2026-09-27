@@ -2,7 +2,7 @@
 
 > Hands-on cybersecurity training, documentation, and analysis completed through **MyFirstHack**.
 
-**Training/Course Period:** June – September 2026
+**Training Period:** June – September 2026
 
 ---
 
@@ -10,7 +10,7 @@
 
 This repository documents my learning throughout the **MyFirstHack Cybersecurity Foundations** training program.
 
-The training covered foundational cybersecurity concepts, security frameworks, network security, reconnaissance, authentication, password security, cloud security, and threat detection.
+The training covered foundational cybersecurity concepts, security frameworks, network security, reconnaissance, authentication, cloud security, social engineering, and threat detection.
 
 Each section contains my written documentation, analysis, observations, and key takeaways from the corresponding training topics.
 
@@ -24,7 +24,7 @@ Each section contains my written documentation, analysis, observations, and key 
 | **Security Frameworks**        | Cyber Kill Chain, MITRE ATT&CK                    |
 | **Network Security**           | Firewalls, IDS/IPS, Proxies                       |
 | **Security Monitoring**        | SIEM, Threat Detection                            |
-| **Authentication**             | MFA, Authentication Security                      |
+| **Authentication**             | Authentication, MFA                               |
 | **Reconnaissance**             | OSINT, Shodan, Information Gathering              |
 | **Cloud Security**             | AWS, EC2, S3, IAM, VPC, CloudTrail                |
 | **Social Engineering**         | Phishing, Suspicious Messages, Security Awareness |
@@ -125,7 +125,7 @@ Documentation covering indicators of suspicious activity, security monitoring, a
 
 ---
 
-## Authentication & Password Security
+## Authentication
 
 ### Authentication & MFA
 
@@ -190,48 +190,18 @@ Analysis of suspicious SMS messages, links, and common indicators that can be us
 
 ---
 
-## Concepts
+## Tools & Technologies
 
-The following concepts are documented throughout the repository:
-
-```text
-Cybersecurity Fundamentals
-├── CIA Triad
-│
-Security Frameworks
-├── Cyber Kill Chain
-└── MITRE ATT&CK
-│
-Network Security
-├── Firewalls
-├── IDS/IPS
-└── Proxies
-│
-Security Monitoring
-├── SIEM
-└── Threat Detection
-│
-Authentication
-├── Authentication
-└── MFA
-│
-Reconnaissance
-├── OSINT
-├── Information Gathering
-└── Shodan
-│
-Cloud Security
-├── AWS
-├── EC2
-├── S3
-├── IAM
-├── VPC
-└── CloudTrail
-│
-Social Engineering
-├── Phishing
-└── Suspicious Messages
-```
+* **UTM**
+* **Ubuntu**
+* **Kali Linux**
+* **AWS**
+* **Shodan**
+* **MITRE ATT&CK**
+* **Cyber Kill Chain**
+* **SIEM**
+* **IDS/IPS**
+* **Firewalls**
 
 ---
 
