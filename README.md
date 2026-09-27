@@ -133,19 +133,6 @@ Documentation covering authentication methods, multi-factor authentication, and 
 
 [Read Documentation →](./concepts/authentication.md)
 
-### Password Security
-
-Documentation covering password storage, password hashing, password recovery techniques, and the security implications of weak passwords.
-
-**Tools explored:**
-
-* John the Ripper
-* `pdf2john`
-* Hash Calculator
-* Password Cracker
-
-[Read Documentation →](./concepts/password-security.md)
-
 ---
 
 ## Reconnaissance
